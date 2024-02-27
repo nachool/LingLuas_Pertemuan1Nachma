@@ -7,7 +7,6 @@ int main()
         cout << "Masukan jejari = ";
         cin >> nJejari;
         nLuas = 3.14 * nJejari * nJejari;
-        cout << "Luasnya = " << nLuas  << endl;
-    }
+        cout << "Luasnya = " << nLuas << endl;
 }
 
