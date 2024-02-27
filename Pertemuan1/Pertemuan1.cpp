@@ -1,5 +1,5 @@
-#include <iostream>
-using namespace std;
+#include <iostream> //library iostream
+using namespace std; //library standar
 
 int main()
 {
